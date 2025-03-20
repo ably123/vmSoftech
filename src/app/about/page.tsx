@@ -21,7 +21,7 @@ const AboutUs = () => {
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
       </Head>
 
-      <section className="bg-gray-100 py-12 px-4 sm:px-6 md:px-12 lg:px-20">
+      <section className="bg-gray-100 py-12 px-4 sm:px-6 md:px-12 lg:px-20 mt-20">
         {/* Page Heading for SEO */}
         <h1 className="text-3xl sm:text-4xl font-bold text-center text-gray-900 mb-6 sm:mb-10">
           About Vasumatha Softech
