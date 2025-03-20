@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://www.vasumathasoftech.com
+
+# Sitemaps
+Sitemap: https://www.vasumathasoftech.com/sitemap.xml
