@@ -12,7 +12,7 @@ const Nav = () => {
       <div className="container mx-auto flex justify-between items-center px-4 md:px-8 py-3">
         
         {/* Logo with Company Name Below */}
-        <Link href="/" className="flex flex-col items-center">
+        <Link href="/home" className="flex flex-col items-center">
           <div className="relative">
             <Image 
               src="/VMlogo.png" 
